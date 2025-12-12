@@ -1,5 +1,6 @@
 ---
 layout: cover
+transition: fade
 background: /media/museum.jpg
 ---
 

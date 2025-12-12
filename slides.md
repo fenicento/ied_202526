@@ -51,3 +51,7 @@ src: ./sections/usabilita.md
 ---
 src: ./sections/accessibilita.md
 ---
+
+---
+src: ./sections/durabilita.md
+---
