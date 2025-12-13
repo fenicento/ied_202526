@@ -55,3 +55,7 @@ src: ./sections/accessibilita.md
 ---
 src: ./sections/durabilita.md
 ---
+
+---
+src: ./sections/tecnologie.md
+---

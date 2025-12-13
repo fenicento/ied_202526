@@ -291,9 +291,9 @@ layout: default
 ---
 
 <div class="absolute top-0 left-0 w-full h-full">
-<img src="/media/rovati.jpg"/>
+<img class="w-full h-full object-cover" src="/media/rovati.jpg"/>
 </div>
 
 <div class="fixed bottom-0 right-0">
 <Dida title="Dotdotdot - Fondazione Luigi Rovati Museum" subtitle="Fondazione Luigi Rovati Art Museum, Milan, Italy" link="https://www.dotdotdot.it/works/little-museum-of-the-diary" bgColor="#e4ca00"></Dida>
-</div>
+</div> 

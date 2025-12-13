@@ -57,6 +57,79 @@ L'intero percorso diventa <b>un unico flusso</b> volto a raccontare una storia s
 
 
 ---
+
+# Immersività
+
+<div class="mt-10">
+
+La progettazione immersiva fonde **narrazione, tecnologia e architettura**
+
+</div>
+
+<div class="grid grid-cols-2 gap-8 mt-10">
+  <div class="flex items-start gap-4">
+    <mdi-blur class="text-3xl mt-1" />
+    <div>
+      <span class="block"><b>Continuum esperienziale</b></span>
+      <span class="block text-sm mt-2">L'immersività bilancia presenza fisica ed estensione digitale, dissolvendo i confini per creare un'esperienza sensoriale ed emotiva</span>
+    </div>
+  </div>
+  <div class="flex items-start gap-4">
+    <mdi-heart-pulse class="text-3xl mt-1" />
+    <div>
+      <span class="block"><b>Obiettivo emozionale</b></span>
+      <span class="block text-sm mt-2">L'efficacia non è la tecnologia, ma l'emozione evocata: meraviglia, curiosità, coinvolgimento</span>
+    </div>
+  </div>
+</div>
+
+---
+
+# Dalla visione all'azione
+
+<div class="mt-10">
+
+L'immersività si realizza pienamente nell'**interazione corporea e sensoriale**, non solo visiva.
+
+</div>
+
+<div class="grid grid-cols-3 gap-6 mt-12">
+  <div class="flex flex-col items-center p-4 bg-gray-100 rounded-lg">
+    <mdi-access-point class="text-3xl mb-2" />
+    <span class="font-bold">Tecnica</span>
+    <span class="text-sm text-center mt-2">Sensori e tecnologie per catturare l'interazione</span>
+  </div>
+  <div class="flex flex-col items-center p-4 bg-gray-100 rounded-lg">
+    <mdi-axis-arrow class="text-3xl mb-2" />
+    <span class="font-bold">Spaziale</span>
+    <span class="text-sm text-center mt-2">Movimento del corpo nello spazio fisico</span>
+  </div>
+  <div class="flex flex-col items-center p-4 bg-gray-100 rounded-lg">
+    <mdi-forum class="text-3xl mb-2" />
+    <span class="font-bold">Dialogica</span>
+    <span class="text-sm text-center mt-2">Costruzione condivisa del significato</span>
+  </div>
+</div>
+
+<div class="mt-10">
+
+Tattilità, movimento e sensi sono **amplificati** per trasformare il visitatore in partecipante attivo.
+
+</div>
+
+---
+layout: default
+---
+
+<div class="absolute top-0 left-0 w-full h-full">
+<img class="w-full h-full object-cover" src="/media/teamlab.webp"/>
+</div>
+
+<div class="fixed bottom-0 right-0">
+<Dida title="TeamLab - TeamLab planets Tokyo" subtitle="Toyosu 6-1-16, Koto-ku, Tokyo" link="https://www.teamlab.art/it/e/planets/" bgColor="#e4ca00"></Dida>
+</div>
+
+---
 layout: image-right
 image: /media/rebuild.webp
 ---
@@ -155,7 +228,7 @@ layout: default
 ---
 
 <div class="absolute top-0 left-0 w-full h-full">
-<img src="/media/diari.jpg"/>
+<img class="w-full h-full object-cover" src="/media/diari.jpg"/>
 </div>
 
 <div class="fixed bottom-0 right-0">

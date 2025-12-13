@@ -71,6 +71,165 @@ L'interazione è una **qualità intrinseca** dell'ambiente, non un elemento aggi
 </div>
 
 ---
+layout: center
+transition: fade
+---
+
+# Processi di design
+
+<style>
+  h1 {
+  text-decoration: underline;
+  text-decoration-color: #e4ca00;
+  text-underline-offset: 2px;
+  text-decoration-thickness: 4px;
+  }
+</style>
+
+---
+
+# Ciclo iterativo
+
+<div class="mt-10">
+
+Il processo di design più semplice è un **ciclo continuo** di tre fasi che si ripetono fino al raggiungimento degli obiettivi.
+
+</div>
+
+<div class="flex items-center justify-center mt-1">
+  <img class="max-w-200px" src="/media/iterate.png"/>
+</div>
+
+<div class="mt-10">
+
+Ogni iterazione permette di **identificare problemi**, raccogliere feedback e migliorare progressivamente la soluzione.
+
+</div>
+
+---
+
+# Double Diamond
+
+<div class="mt-8">
+
+Il **Double Diamond** è un modello di processo di design sviluppato dal Design Council nel 2004, che descrive le fasi di esplorazione e convergenza.
+
+</div>
+
+<div class="flex w-full items-center justify-center">
+  <img class="max-w-300px" style="filter:saturate(0)" src="/media/ddprocess.png"/>
+</div>
+
+<div class="grid grid-cols-4 gap-4 mt-10">
+  <div class="flex flex-col items-center p-2 bg-amber-100 rounded-lg">
+    <mdi-magnify class="text-2xl mb-2" />
+    <span class="font-bold">Scoprire</span>
+    <span class="text-xs text-center mt-2">Esplorare il problema, parlare con gli utenti</span>
+  </div>
+  <div class="flex flex-col items-center p-2 bg-amber-200 rounded-lg">
+    <mdi-target class="text-2xl mb-2" />
+    <span class="font-bold">Definire</span>
+    <span class="text-xs text-center mt-2">Sintetizzare e inquadrare la sfida</span>
+  </div>
+  <div class="flex flex-col items-center p-2 bg-green-100 rounded-lg">
+    <mdi-lightbulb-on-outline class="text-2xl mb-2" />
+    <span class="font-bold">Sviluppare</span>
+    <span class="text-xs text-center mt-2">Generare e co-progettare soluzioni</span>
+  </div>
+  <div class="flex flex-col items-center p-2 bg-green-200 rounded-lg">
+    <mdi-rocket-launch-outline class="text-2xl mb-2" />
+    <span class="font-bold">Realizzare</span>
+    <span class="text-xs text-center mt-2">Testare, perfezionare, implementare</span>
+  </div>
+</div>
+
+
+---
+
+# Double Diamond: divergenza e convergenza
+
+<div class="mt-8">
+
+Ogni diamante alterna una fase di **pensiero divergente** (espansione) e una di **pensiero convergente** (sintesi).
+
+</div>
+
+<div class="grid grid-cols-2 gap-8 mt-10">
+  <div class="flex items-start gap-4">
+    <mdi-arrow-expand-all class="text-3xl mt-1" />
+    <div>
+      <span class="block"><b>Divergenza</b></span>
+      <span class="block text-sm mt-2">Esplorare senza limiti, generare molte idee, raccogliere prospettive diverse</span>
+    </div>
+  </div>
+  <div class="flex items-start gap-4">
+    <mdi-arrow-collapse-all class="text-3xl mt-1" />
+    <div>
+      <span class="block"><b>Convergenza</b></span>
+      <span class="block text-sm mt-2">Analizzare, selezionare, focalizzarsi sulle soluzioni più promettenti</span>
+    </div>
+  </div>
+</div>
+
+<div class="mt-10">
+
+Il processo non è lineare: le scoperte possono riportare a fasi precedenti per **affinare la comprensione** del problema.
+
+</div>
+
+---
+
+# Esempio: installazione sulla biodiversità marina
+
+<div class="mt-6 text-sm">
+
+<div class="grid grid-cols-4 gap-3">
+  <div class="p-3 bg-amber-100 rounded-lg">
+    <p class="font-bold mb-2"><mdi-magnify class="inline" /> Scoprire</p>
+    <ul class="text-xs space-y-1">
+      <li>Interviste con biologi marini</li>
+      <li>Osservazione visitatori in acquari</li>
+      <li>Ricerca su percezione dell'oceano</li>
+      <li>Analisi installazioni esistenti</li>
+    </ul>
+  </div>
+  <div class="p-3 bg-amber-200 rounded-lg">
+    <p class="font-bold mb-2"><mdi-target class="inline" /> Definire</p>
+    <ul class="text-xs space-y-1">
+      <li>I visitatori non percepiscono la scala dell'ecosistema</li>
+      <li>Sfida: rendere tangibile l'interconnessione delle specie</li>
+      <li>Target: famiglie e studenti</li>
+    </ul>
+  </div>
+  <div class="p-3 bg-green-100 rounded-lg">
+    <p class="font-bold mb-2"><mdi-lightbulb-on-outline class="inline" /> Sviluppare</p>
+    <ul class="text-xs space-y-1">
+      <li>Brainstorming con educatori</li>
+      <li>Prototipo tavolo interattivo</li>
+      <li>Test con proiezione a pavimento</li>
+      <li>Iterazioni su feedback</li>
+    </ul>
+  </div>
+  <div class="p-3 bg-green-200 rounded-lg">
+    <p class="font-bold mb-2"><mdi-rocket-launch-outline class="inline" /> Realizzare</p>
+    <ul class="text-xs space-y-1">
+      <li>Vasca virtuale con sensori di movimento</li>
+      <li>Test con classi scolastiche</li>
+      <li>Ottimizzazione interazione</li>
+      <li>Lancio e monitoraggio</li>
+    </ul>
+  </div>
+</div>
+
+</div>
+
+<div class="mt-6">
+
+Il risultato: una **vasca virtuale** dove i movimenti dei visitatori influenzano l'ecosistema proiettato, rendendo visibile l'impatto delle azioni umane.
+
+</div>
+
+---
 
 # Caratteristiche di un allestimento interattivo
 
