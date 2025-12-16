@@ -17,15 +17,23 @@ background: /media/cover.jpg
 
 # Allestimento degli spazi espositivi
 
-## Progettare l'interazione
+## Allestimenti interattivi
+
+<div class="abs-bl m-6 text-sm">
+  <span class="">Daniele Ciminieri</span><br>
+  <a href="mailto:daniele.ciminieri@gmail.com">daniele.ciminieri@gmail.com</a>
+</div>
 
 <div class="abs-br m-6">
-  <span class="text-sm">Daniele Ciminieri - </span>
   <span class="text-sm">IED Cagliari 2025/26</span>
 </div>
 
 <style>
+  h1{
+    font-size:52px !important;
+  }
   h2 {
+    font-size:24px !important;
     font-family:"Outfit" !important;
     font-weight:700 !important; 
     text-decoration:none !important;
@@ -58,4 +66,8 @@ src: ./sections/durabilita.md
 
 ---
 src: ./sections/tecnologie.md
+---
+
+---
+src: ./sections/strumenti.md
 ---

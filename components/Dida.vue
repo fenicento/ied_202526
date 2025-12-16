@@ -30,6 +30,10 @@ const props = defineProps({
     padding: {
         type: String,
         default: '0.5rem'
+    },
+    showQr: {
+        type: Boolean,
+        default: true
     }
 })
 
@@ -49,7 +53,7 @@ const qrcode = useQRCode(linkRef)
       </p>
       <p v-if="subtitle" :style="{ color: color }">{{ subtitle }}</p>
     </div>
-    <div v-if="link" class="dida-qr">
+    <div v-if="link && showQr" class="dida-qr">
       <img :src="qrcode" alt="QR Code" />
     </div>
   </div>

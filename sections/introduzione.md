@@ -21,123 +21,6 @@ class: text-center
 
 ---
 
-
-# La trasformazione del museo
-
-<div class="text-xl text-center max-w-2xl my-16 mx-auto leading-relaxed">
-
-Da **deposito di memoria culturale**
-
-<div v-click class="my-10 text-3xl">↓</div>
-
-<div v-click>
-a  <b>spazio dinamico</b> di interazione, interpretazione e partecipazione
-</div>
-
-</div>
-
-<!--
-Il museo contemporaneo si trova a un bivio, essendosi evoluto da quello che era concepito principalmente come un deposito di memoria culturale a uno spazio dinamico.
--->
-
----
-
-# Da deposito a agente attivo
-
-<div class="mt-12">Il museo non è più solo un contenitore di oggetti, ma un agente attivo di trasformazione culturale</div>
-
-<div class="grid grid-cols-2 gap-12 mt-8">
-
-<div v-click>
-
-### Prima
-
-- Deposito di "curiosità"
-- Rivolto a un'élite
-- Focus sugli oggetti
-- Visitatore passivo
-
-</div>
-
-<div v-click>
-
-### Oggi
-
-- Ambiente comunicativo
-- Accessibile e inclusivo
-- Focus sull'esperienza
-- Visitatore attivo
-
-</div>
-
-</div>
-
-
----
-
-# Perché questa trasformazione?
-
-<div class="grid grid-cols-2 gap-8 mt-6">
-
-<div v-click>
-
-### Necessità di rilevanza
-
-I musei devono ripensare missione, pubblico e forme di coinvolgimento per rimanere rilevanti nella società contemporanea
-
-</div>
-
-<div v-click>
-
-### Pubblico eterogeneo
-
-L'era digitale ha generato nuove esigenze e preferenze culturali, spingendo verso un design centrato sul visitatore
-
-</div>
-
-<div v-click>
-
-### Crisi di legittimità
-
-Tensione tra ruolo educativo tradizionale e necessità di adattarsi a una società sempre più partecipativa
-
-</div>
-
-<div v-click>
-
-### Information sickness
-
-Eccesso di informazioni e perdita di profondità simbolica: i musei devono fornire esperienze concrete ed emotivamente risonanti
-
-</div>
-
-</div>
-
----
-
-# Evoluzione tecnologica e culturale
-
-<div class="space-y-6 mt-8">
-
-<div v-click class="p-4 border-l-2 border-gray-300">
-  <strong>Riconoscimento del ruolo del design</strong>
-  <span class="ml-2">— architettonico, spaziale ed esperienziale — nel modellare conoscenza ed emozione</span>
-</div>
-
-<div v-click class="p-4 border-l-2 border-gray-300">
-  <strong>Impatto della digitalizzazione</strong>
-  <span class="ml-2">— bilanciare presenza fisica e estensione virtuale, intimità e immersione</span>
-</div>
-
-<div v-click class="p-4 border-l-2 border-gray-300">
-  <strong>Nascita del Visitor-Centered Design</strong>
-  <span class="ml-2">— risposta al calo delle presenze e alla domanda di inclusività (anni '90)</span>
-</div>
-
-</div>
-
----
-
 # Ridefinizione istituzionale
 
 <div class="pr-4">
@@ -208,9 +91,128 @@ L'ICOM (International Council of Museums) ha modificato significativamente la de
 </div>
 
 
+
 ---
 
-# Visitor-centered design
+
+# La trasformazione del museo
+
+<div class="text-xl text-center max-w-2xl my-16 mx-auto leading-relaxed">
+
+Da **deposito di memoria culturale**
+
+<div v-click class="my-10 text-3xl">↓</div>
+
+<div v-click>
+a  <b>spazio dinamico</b> di interazione, interpretazione e partecipazione
+</div>
+
+</div>
+
+<!--
+Il museo contemporaneo si trova a un bivio, essendosi evoluto da quello che era concepito principalmente come un deposito di memoria culturale a uno spazio dinamico.
+-->
+
+---
+
+# Da deposito a agente attivo
+
+<div class="mt-12">Il museo non è più solo un contenitore di oggetti, ma un agente attivo di trasformazione culturale</div>
+
+<div class="grid grid-cols-2 gap-12 mt-8">
+
+<div v-click>
+
+### Prima
+
+- Deposito di reperti e opere
+- Rivolto a un'élite
+- Focus sugli oggetti
+- Visitatore passivo
+
+</div>
+
+<div v-click>
+
+### Oggi
+
+- Ambiente comunicativo
+- Accessibile e inclusivo
+- Focus sull'esperienza
+- Visitatore attivo
+
+</div>
+
+</div>
+
+
+---
+
+# Perché questa trasformazione?
+
+<div class="grid grid-cols-2 gap-8 mt-6">
+
+<div v-click>
+
+### Necessità di rilevanza
+
+I musei devono ripensare missione, pubblico e forme di coinvolgimento per rimanere rilevanti nella società contemporanea
+
+</div>
+
+<div v-click>
+
+### Evoluzione del pubblico
+
+L'era digitale ha generato nuove esigenze e preferenze culturali, spingendo verso nuovi tipi di fruizione
+
+</div>
+
+<div v-click>
+
+### Crisi di legittimità
+
+Tensione tra ruolo educativo tradizionale e necessità di adattarsi a una società sempre più partecipativa
+
+</div>
+
+<div v-click>
+
+### Information sickness
+
+Eccesso di informazioni e perdita di profondità simbolica: i musei devono fornire esperienze concrete ed emotivamente risonanti
+
+</div>
+
+</div>
+
+---
+
+# Evoluzione tecnologica e culturale
+
+<div class="space-y-6 mt-8">
+
+<div v-click class="p-4 border-l-2 border-gray-300">
+  <strong>Riconoscimento del ruolo del design</strong>
+  <span class="ml-2">— architettonico, spaziale ed esperienziale — nel modellare conoscenza ed emozione</span>
+</div>
+
+<div v-click class="p-4 border-l-2 border-gray-300">
+  <strong>Impatto della digitalizzazione</strong>
+  <span class="ml-2">— bilanciare presenza fisica e estensione virtuale, intimità e immersione</span>
+</div>
+
+<div v-click class="p-4 border-l-2 border-gray-300">
+  <strong>Nascita dello User-Centered Design</strong>
+  <span class="ml-2">— risposta al calo delle presenze e alla domanda di inclusività</span>
+</div>
+
+</div>
+
+
+---
+
+# User-centered design
 
 <div class="mb-10">Passaggio da focus sugli oggetti a focus sull'esperienza</div>
 
@@ -243,13 +245,15 @@ L'ICOM (International Council of Museums) ha modificato significativamente la de
 # Il ruolo dell'interattività
 
 <div class="mt-10">
-Nel visitor-centered design la priorità è <b>l'esperienza</b>
+Nello user-centered design la priorità è <b>l'esperienza</b>
 </div>
 <div class="mt-10">
 In questo contesto l'interattività non è un optional o un "gadget" tecnologico, ma la lingua che traduce questa filosofia in realtà concreta, assicurando che la progettazione di un museo produca un <b>ambiente dinamico e partecipativo.</b>
 </div>
 
 
+---
+hide: true
 ---
 
 # La Triade degli Obiettivi

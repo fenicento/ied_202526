@@ -30,6 +30,6 @@ export default defineConfig({
   ],
   rules: [
     // Apply serif font to headings globally
-    [/^heading-font$/, () => ({ 'font-family': "'Unna', serif" })],
+    [/^heading-font$/, () => ({ 'font-family': "'Quattrocento', serif" })],
   ],
 })

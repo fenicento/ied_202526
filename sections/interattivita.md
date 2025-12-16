@@ -75,7 +75,7 @@ layout: center
 transition: fade
 ---
 
-# Processi di design
+# Processi e modelli di design
 
 <style>
   h1 {
@@ -226,6 +226,72 @@ Il processo non è lineare: le scoperte possono riportare a fasi precedenti per 
 <div class="mt-6">
 
 Il risultato: una **vasca virtuale** dove i movimenti dei visitatori influenzano l'ecosistema proiettato, rendendo visibile l'impatto delle azioni umane.
+
+</div>
+
+---
+
+# Personas
+
+<div class="mt-10">
+
+Le **Personas** sono modelli di riferimento rappresentativi di specifici tipi di utenti, basati su cluster di comportamenti e bisogni.
+
+</div>
+
+<div class="grid grid-cols-2 gap-8 mt-10">
+	<div class="flex items-start gap-4">
+		<mdi-account-outline class="text-3xl mt-1" />
+		<div>
+			<span class="block"><b>Archetipi comportamentali</b></span>
+			<span class="block text-sm mt-2">Rappresentano comportamenti specifici senza necessariamente definire personalità o socio-demografia</span>
+		</div>
+	</div>
+	<div class="flex items-start gap-4">
+		<mdi-account-details class="text-3xl mt-1" />
+		<div>
+			<span class="block"><b>Personas realistiche</b></span>
+			<span class="block text-sm mt-2">Assumono caratteristiche concrete (nome, età, background) esprimendo bisogni, desideri e contesti culturali</span>
+		</div>
+	</div>
+</div>
+
+<div class="mt-10">
+
+Utili per **ricordare per chi stiamo progettando** e trarre ispirazione dalle loro specifiche sfide e contesti di vita.
+
+</div>
+
+---
+
+# User Journey Map
+
+<div class="mt-10">
+
+Il **Journey Map** è una rappresentazione sintetica che descrive passo-passo come un utente interagisce con un servizio.
+
+</div>
+
+<div class="grid grid-cols-2 gap-8 mt-10">
+	<div class="flex items-start gap-4">
+		<mdi-map-marker-path class="text-3xl mt-1" />
+		<div>
+			<span class="block"><b>Mappatura dell'esperienza</b></span>
+			<span class="block text-sm mt-2">Descrive touchpoint, ostacoli e barriere incontrate in ogni fase dell'interazione</span>
+		</div>
+	</div>
+	<div class="flex items-start gap-4">
+		<mdi-emoticon-happy-outline class="text-3xl mt-1" />
+		<div>
+			<span class="block"><b>Flusso emozionale</b></span>
+			<span class="block text-sm mt-2">Include livelli di emozioni positive/negative vissute durante l'esperienza</span>
+		</div>
+	</div>
+</div>
+
+<div class="mt-10">
+
+Permette di **rappresentare l'intero processo utente**, identificando pain points e opportunità di miglioramento prima e dopo l'esperienza core.
 
 </div>
 

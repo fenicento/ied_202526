@@ -1,12 +1,12 @@
 ---
 layout: cover
 transition: fade
-background: /media/arduino.jpg
+background: /media/proj.jpg
 ---
 
 <div class="absolute bottom-5 right-10 text-right">
 
-# Tecnologie e strumenti
+# Tecnologie
 
 </div>
 
@@ -235,7 +235,7 @@ La CV utilizza telecamere per rilevare **presenza, azioni ed espressioni** dei v
 
 </div>
 
-<div class="grid grid-cols-2 gap-8 mt-10">
+<div class="grid grid-cols-2 gap-8 mt-16">
   <div class="flex items-start gap-4">
     <mdi-blur class="text-3xl mt-1" />
     <div>
