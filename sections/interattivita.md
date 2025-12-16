@@ -299,7 +299,7 @@ Permette di **rappresentare l'intero processo utente**, identificando pain point
 
 # Caratteristiche di un allestimento interattivo
 
-<div class="grid grid-cols-3 gap-6 mt-12">
+<div class="grid grid-cols-2 gap-3 mt-12">
   <div class="flex flex-col items-center justify-center p-6 bg-gray-100">
     <mdi-book-open-variant class="text-5xl mb-3" />
     <b>Narrativa</b>
@@ -308,10 +308,7 @@ Permette di **rappresentare l'intero processo utente**, identificando pain point
     <mdi-cursor-default-click class="text-5xl mb-3" />
     <b>Usabilità</b>
   </div>
-  <div class="flex flex-col items-center justify-center p-6 bg-gray-100">
-    <mdi-eye-outline class="text-5xl mb-3" />
-    <b>Percezione</b>
-  </div>
+  
   <div class="flex flex-col items-center justify-center p-6 bg-gray-100">
     <mdi-wheelchair-accessibility class="text-5xl mb-3" />
     <b>Accessibilità</b>
@@ -319,9 +316,5 @@ Permette di **rappresentare l'intero processo utente**, identificando pain point
   <div class="flex flex-col items-center justify-center p-6 bg-gray-100">
     <mdi-shield-check class="text-5xl mb-3" />
     <b>Durabilità</b>
-  </div>
-  <div class="flex flex-col items-center justify-center p-6 bg-gray-100">
-    <mdi-cog class="text-5xl mb-3" />
-    <b>Realizzazione tecnica</b>
   </div>
 </div>
