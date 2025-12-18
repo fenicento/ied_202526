@@ -310,7 +310,7 @@ Permette di **rappresentare l'intero processo utente**, identificando pain point
   </div>
   
   <div class="flex flex-col items-center justify-center p-6 bg-gray-100">
-    <mdi-wheelchair-accessibility class="text-5xl mb-3" />
+    <mdi-accessibility class="text-5xl mb-3" />
     <b>Accessibilità</b>
   </div>
   <div class="flex flex-col items-center justify-center p-6 bg-gray-100">

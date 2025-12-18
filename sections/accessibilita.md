@@ -110,6 +110,7 @@ L'integrazione sensoriale è essenziale per accomodare **diverse capacità**
 ---
 layout: image-bottom
 image: /media/height.avif
+backgroundSize: contain
 ---
 # Accessibilità fisica e posizionamento
 

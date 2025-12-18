@@ -303,14 +303,14 @@ Negli allestimenti interattivi Arduino permette di **connettere mondo fisico e d
 
 <div class="grid grid-cols-2 gap-8 mt-10">
 	<div class="flex items-start gap-4">
-		<mdi-radar class="text-3xl mt-1" />
+		<mdi-ear-hearing class="text-3xl mt-1" />
 		<div>
 			<span class="block"><b>Sensori e input</b></span>
 			<span class="block text-sm mt-2">Rilevare presenza, movimento, luce, suono, temperatura e molto altro</span>
 		</div>
 	</div>
 	<div class="flex items-start gap-4">
-		<mdi-robot class="text-3xl mt-1" />
+		<mdi-lightbulb-outline class="text-3xl mt-1" />
 		<div>
 			<span class="block"><b>Attuatori e output</b></span>
 			<span class="block text-sm mt-2">Controllare LED, motori, display, altoparlanti per feedback tangibili</span>
@@ -341,12 +341,12 @@ Arduino si integra facilmente con altri strumenti per creare **sistemi complessi
 		<span class="text-sm text-center mt-2">Dialoga con computer e software come Processing, TouchDesigner, Max/MSP</span>
 	</div>
 	<div class="flex flex-col items-center p-4 bg-gray-100 rounded-lg">
-		<mdi-network class="text-3xl mb-2" />
+		<mdi-hub class="text-3xl mb-2" />
 		<span class="font-bold">Protocolli</span>
-		<span class="text-sm text-center mt-2">Supporta I2C, SPI, OSC per interfacciarsi con dispositivi complessi</span>
+		<span class="text-sm text-center mt-2">Supporta I2C, SPI, MIDI per interfacciarsi con dispositivi complessi</span>
 	</div>
 	<div class="flex flex-col items-center p-4 bg-gray-100 rounded-lg">
-		<mdi-scale-balance class="text-3xl mb-2" />
+		<mdi-widgets class="text-3xl mb-2" />
 		<span class="font-bold">Modularità</span>
 		<span class="text-sm text-center mt-2">Shield e moduli espandono le funzionalità senza complessità</span>
 	</div>

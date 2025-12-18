@@ -247,7 +247,7 @@ La CV utilizza telecamere per rilevare **presenza, azioni ed espressioni** dei v
     <mdi-human class="text-3xl mt-1" />
     <div>
       <span class="block"><b>Body Tracking</b></span>
-      <span class="block text-sm mt-2">Tracciamento dello scheletro, postura ed espressioni facciali</span>
+      <div class="block text-sm mt-2">Tracciamento dello scheletro, postura ed espressioni facciali <a class="text-sm" href="https://pjbelo.github.io/mediapipe-js-demos/holistic.html">- demo online</a></div>
     </div>
   </div>
 </div>
@@ -369,7 +369,7 @@ Gli attuatori producono il **feedback fisico e sensoriale** dell'installazione.
     <mdi-weather-fog class="text-3xl mt-1" />
     <div>
       <span class="block"><b>Effetti atmosferici</b></span>
-      <span class="block text-sm mt-2">Emettitori di fumo/nebbia per dramma scenico</span>
+      <span class="block text-sm mt-2">Emettitori di fumo/nebbia, vaporizzatori di essenze, etc</span>
     </div>
   </div>
 </div>
@@ -495,12 +495,15 @@ I sensori di prossimità trasformano il dispositivo in una **guida contestuale i
 
 
 ---
+layout: image-bottom
+image: /media/depth.png
+backgroundSize: contain
+---
 
 # Intelligenza Artificiale
 
-<div class="mt-10">
-
-I **Deep Generative Models** (DGM) generano contenuti che riflettono le qualità estetiche di vasti dataset di opere.
+<div>
+Comprende una vasta famiglia di applicazioni che vanno oltre LLM e generazione di media
 
 </div>
 
@@ -509,23 +512,18 @@ I **Deep Generative Models** (DGM) generano contenuti che riflettono le qualità
     <mdi-robot-outline class="text-3xl mt-1" />
     <div>
       <span class="block"><b>Personalizzazione dinamica</b></span>
-      <span class="block text-sm mt-2">Sistemi conversazionali e chatbot adattivi</span>
+      <span class="block text-sm mt-2">Creazione in tempo reale di contenuti personalizzabili in base al contesto</span>
     </div>
   </div>
   <div class="flex items-start gap-4">
     <mdi-creation class="text-3xl mt-1" />
     <div>
-      <span class="block"><b>AI generativa</b></span>
-      <span class="block text-sm mt-2">Crea "nuove entità incerte" che evidenziano tendenze visive del corpus originale</span>
+      <span class="block"><b>Automazione di task complesse</b></span>
+      <span class="block text-sm mt-2">Riconoscimento semantico di oggetti in una scena, stima della profondità di campo, etc</span>
     </div>
   </div>
 </div>
 
-<div class="mt-10">
-
-**Esempio**: modelli addestrati sugli schizzi di Edvard Munch per generare nuove immagini nello stesso stile.
-
-</div>
 
 
 ---
