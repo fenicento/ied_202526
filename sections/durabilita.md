@@ -1,18 +1,28 @@
 ---
-layout: center
-transition: fade
+layout: default
 ---
 
-# Durabilità
+# Caratteristiche di un allestimento interattivo
 
-<style>
-  h1{
-    text-decoration: underline;
-    text-decoration-color: #e4ca00;
-    text-underline-offset: 2px;
-    text-decoration-thickness: 4px;
-  }
-</style>
+<div class="grid grid-cols-2 gap-3 mt-12">
+  <div class="flex flex-col items-center justify-center p-6 bg-gray-100">
+    <mdi-book-open-variant class="text-5xl mb-3" />
+    <b>Narrativa</b>
+  </div>
+  <div class="flex flex-col items-center justify-center p-6 bg-gray-100">
+    <mdi-cursor-default-click class="text-5xl mb-3" />
+    <b>Usabilità</b>
+  </div>
+  
+  <div class="flex flex-col items-center justify-center p-6 bg-gray-100">
+    <mdi-accessibility class="text-5xl mb-3" />
+    <b>Accessibilità</b>
+  </div>
+  <div class="flex flex-col items-center justify-center p-6" style="background-color: #e4ca00">
+    <mdi-shield-check class="text-5xl mb-3" />
+    <b>Durabilità</b>
+  </div>
+</div>
 
 ---
 

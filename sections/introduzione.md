@@ -248,7 +248,7 @@ Eccesso di informazioni e perdita di profondità simbolica: i musei devono forni
 Nello user-centered design la priorità è <b>l'esperienza</b>
 </div>
 <div class="mt-10">
-In questo contesto l'interattività non è un optional o un "gadget" tecnologico, ma la lingua che traduce questa filosofia in realtà concreta, assicurando che la progettazione di un museo produca un <b>ambiente dinamico e partecipativo.</b>
+In questo contesto l'interattività non è un optional o un "gadget" tecnologico, ma la lingua che traduce questa filosofia in realtà concreta, assicurando che la progettazione di un museo produca un <b>ambiente dinamico e partecipativo</b>
 </div>
 
 

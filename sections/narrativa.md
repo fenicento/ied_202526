@@ -1,18 +1,28 @@
 ---
-layout: center
-transition: fade
+layout: default
 ---
 
-# Narrativa
+# Caratteristiche di un allestimento interattivo
 
-<style>
-  h1 {
-  text-decoration: underline;
-  text-decoration-color: #e4ca00;
-  text-underline-offset: 2px;
-  text-decoration-thickness: 4px;
-  }
-</style>
+<div class="grid grid-cols-2 gap-3 mt-12 border-none">
+  <div class="flex flex-col items-center justify-center p-6" style="background-color: #e4ca00">
+    <mdi-book-open-variant class="text-5xl mb-3" />
+    <b>Narrativa</b>
+  </div>
+  <div class="flex flex-col items-center justify-center p-6 bg-gray-100">
+    <mdi-cursor-default-click class="text-5xl mb-3" />
+    <b>Usabilità</b>
+  </div>
+  
+  <div class="flex flex-col items-center justify-center p-6 bg-gray-100">
+    <mdi-accessibility class="text-5xl mb-3" />
+    <b>Accessibilità</b>
+  </div>
+  <div class="flex flex-col items-center justify-center p-6 bg-gray-100">
+    <mdi-shield-check class="text-5xl mb-3" />
+    <b>Durabilità</b>
+  </div>
+</div>
 
 ---
 
@@ -52,7 +62,7 @@ Lo spazio espositivo non è un contenitore neutro, ma un **dispositivo narrativo
 </div>
 
 <div class="mt-10">
-L'intero percorso diventa <b>un unico flusso</b> volto a raccontare una storia sensata e coerente. 
+L'intero percorso diventa <b>un unico flusso</b> volto a raccontare una storia sensata e coerente
 </div>
 
 
@@ -89,7 +99,7 @@ La progettazione immersiva fonde **narrazione, tecnologia e architettura**
 
 <div class="mt-10">
 
-L'immersività si realizza pienamente nell'**interazione corporea e sensoriale**, non solo visiva.
+L'immersività si realizza pienamente nell'**interazione corporea e sensoriale**, non solo visiva
 
 </div>
 
@@ -113,7 +123,7 @@ L'immersività si realizza pienamente nell'**interazione corporea e sensoriale**
 
 <div class="mt-10">
 
-Tattilità, movimento e sensi sono **amplificati** per trasformare il visitatore in partecipante attivo.
+Tattilità, movimento e sensi sono **amplificati** per trasformare il visitatore in partecipante attivo
 
 </div>
 
@@ -154,7 +164,7 @@ image: /media/rebuild.webp
 
 <div class="mt-10">
 
-Non sostituiscono l'originale, ma **dirigono l'attenzione** verso aspetti altrimenti ignorati.
+Non sostituiscono l'originale, ma **dirigono l'attenzione** verso aspetti altrimenti ignorati
 
 </div>
 

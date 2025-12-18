@@ -39,7 +39,7 @@ Figma è uno strumento per progettare **interfacce** e **prototipi interattivi**
 
 <div class="mt-10">
 
-Utile per **visualizzare e testare** le componenti digitali degli allestimenti prima della realizzazione fisica.
+Utile per **visualizzare e testare** le componenti digitali degli allestimenti prima della realizzazione fisica
 
 </div>
 
@@ -51,7 +51,7 @@ image: /media/figma.webp
 
 <div class="mt-10">
 
-Utile per prototipare e testare **interfacce narrative** simili a siti o applicazioni, con molto contenuto testuale e layout complessi.
+Utile per prototipare e testare **interfacce narrative** simili a siti o applicazioni, con molto contenuto testuale e layout complessi
 
 </div>
 
@@ -76,7 +76,7 @@ Utile per prototipare e testare **interfacce narrative** simili a siti o applica
 
 <div class="mt-10">
 
-Figma include strumenti orientati alla **pubblicazione** e alla **realizzazione rapida** di esperienze digitali.
+Figma include strumenti orientati alla **pubblicazione** e alla **realizzazione rapida** di esperienze digitali
 
 </div>
 
@@ -103,7 +103,7 @@ Figma include strumenti orientati alla **pubblicazione** e alla **realizzazione 
 
 <div class="mt-10">
 
-TouchDesigner è un **ambiente di programmazione visuale** per creare installazioni multimediali.
+TouchDesigner è un **ambiente di programmazione visuale** per creare installazioni multimediali
 
 </div>
 
@@ -126,7 +126,7 @@ TouchDesigner è un **ambiente di programmazione visuale** per creare installazi
 
 <div class="mt-10">
 
-Permette di gestire **video, audio, sensori e dati** in tempo reale, integrando contenuti digitali nello spazio fisico.
+Permette di gestire **video, audio, sensori e dati** in tempo reale, integrando contenuti digitali nello spazio fisico
 
 </div>
 
@@ -136,7 +136,7 @@ Permette di gestire **video, audio, sensori e dati** in tempo reale, integrando 
 
 <div class="mt-10">
 
-Consente di costruire **flussi interattivi** con nodi grafici, senza dover scrivere codice tradizionale.
+Consente di costruire **flussi interattivi** con nodi grafici, senza dover scrivere codice tradizionale
 
 </div>
 
@@ -160,7 +160,7 @@ Consente di costruire **flussi interattivi** con nodi grafici, senza dover scriv
 
 <div class="mt-10">
 
-Ideale per **prototipare e controllare** esperienze immersive negli allestimenti.
+Ideale per **prototipare e controllare** esperienze immersive negli allestimenti
 
 </div>
 
@@ -170,7 +170,7 @@ Ideale per **prototipare e controllare** esperienze immersive negli allestimenti
 
 <div class="mt-10">
 
-Strumento per **prototipare e testare** installazioni multimediali interattive negli allestimenti espositivi.
+Strumento per **prototipare e testare** installazioni multimediali interattive negli allestimenti espositivi
 
 </div>
 
@@ -202,7 +202,7 @@ backgroundSize: contain
 <div>
 	<div class="flex flex-col  align-center">
 		<div class="mt-10">
-			Arduino è una <b>piattaforma di prototipazione elettronica open-source</b> che si basa su hardware e software flessibili e facili da usare.
+			Arduino è una <b>piattaforma di prototipazione elettronica open-source</b> che si basa su hardware e software flessibili e facili da usare
 		</div>
 		<div class="grid grid-cols-1 gap-6 mt-10">
 			<div class="flex items-start gap-4">
@@ -230,7 +230,7 @@ backgroundSize: contain
 
 <div class="mt-10">
 
-L'ecosistema Arduino include diverse **schede** progettate per utilizzi specifici.
+L'ecosistema Arduino include diverse **schede** progettate per utilizzi specifici
 
 </div>
 
@@ -254,7 +254,7 @@ L'ecosistema Arduino include diverse **schede** progettate per utilizzi specific
 
 <div class="mt-10">
 
-Tutte le schede condividono la **stessa logica di programmazione** e sono compatibili con migliaia di componenti.
+Tutte le schede condividono la **stessa logica di programmazione** e sono compatibili con migliaia di componenti
 
 </div>
 
@@ -264,7 +264,7 @@ Tutte le schede condividono la **stessa logica di programmazione** e sono compat
 
 <div class="mt-10">
 
-L'IDE Arduino permette di scrivere codice, compilarlo e caricarlo sulla scheda in pochi passaggi.
+L'IDE Arduino permette di scrivere codice, compilarlo e caricarlo sulla scheda in pochi passaggi
 
 </div>
 
@@ -287,7 +287,7 @@ L'IDE Arduino permette di scrivere codice, compilarlo e caricarlo sulla scheda i
 
 <div class="mt-10">
 
-L'IDE può essere scaricato gratuitamente da **arduino.cc** ed è disponibile per Linux, Mac e Windows.
+L'IDE può essere scaricato gratuitamente da **arduino.cc** ed è disponibile per Linux, Mac e Windows
 
 </div>
 
@@ -297,7 +297,7 @@ L'IDE può essere scaricato gratuitamente da **arduino.cc** ed è disponibile pe
 
 <div class="mt-10">
 
-Negli allestimenti interattivi Arduino permette di **connettere mondo fisico e digitale**.
+Negli allestimenti interattivi Arduino permette di **connettere mondo fisico e digitale**
 
 </div>
 
@@ -320,7 +320,7 @@ Negli allestimenti interattivi Arduino permette di **connettere mondo fisico e d
 
 <div class="mt-10">
 
-Ideale per **prototipare rapidamente** installazioni che reagiscono al comportamento dei visitatori.
+Ideale per **prototipare rapidamente** installazioni che reagiscono al comportamento dei visitatori
 
 </div>
 
@@ -330,7 +330,7 @@ Ideale per **prototipare rapidamente** installazioni che reagiscono al comportam
 
 <div class="mt-10">
 
-Arduino si integra facilmente con altri strumenti per creare **sistemi complessi**.
+Arduino si integra facilmente con altri strumenti per creare **sistemi complessi**
 
 </div>
 
@@ -354,7 +354,7 @@ Arduino si integra facilmente con altri strumenti per creare **sistemi complessi
 
 <div class="mt-10">
 
-La combinazione Arduino + software visuale (TouchDesigner, Processing) è perfetta per **allestimenti interattivi multimediali**.
+La combinazione Arduino + software visuale (TouchDesigner, Processing) è perfetta per **allestimenti interattivi multimediali**
 
 </div>
 
@@ -376,7 +376,7 @@ backgroundSize: contain
 
 <div class="mt-10">
 
-I pin possono essere di **due tipi**: analogici e digitali.
+I pin possono essere di **due tipi**: analogici e digitali
 
 </div>
 
@@ -417,7 +417,7 @@ dei programmi. L’interlocutore può essere un computer, un’altra scheda, etc
 <br>
   
 
-La porta seriale è anche molto usata per eseguire il **debug dei programmi**.
+La porta seriale è anche molto usata per eseguire il **debug dei programmi**
 
 </div>
 
@@ -431,7 +431,7 @@ backgroundSize: contain
 
 <div class="mt-10">
 
-Questo esempio mostra come **leggere un input analogico**, mapparlo ad un valore da 0 a 225 e usare questo valore per regolare la luminosità di un led tramite **Pulse Width Modulation (PWM)**. 
+Questo esempio mostra come **leggere un input analogico**, mapparlo ad un valore da 0 a 225 e usare questo valore per regolare la luminosità di un led tramite **Pulse Width Modulation (PWM)**
 
 
 Il valore viene anche inviato alla porta seriale.

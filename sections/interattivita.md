@@ -17,13 +17,13 @@ background: /media/interaction.jpg
 <div class="mt-10">
 <b>Interazione</b>
 
-Azione, reazione, influenza reciproca di cause, fenomeni, forze, elementi, sostanze, agenti naturali, fisici, chimici, e per estensione psicologici e sociali.
+Azione, reazione, influenza reciproca di cause, fenomeni, forze, elementi, sostanze, agenti naturali, fisici, chimici, e per estensione psicologici e sociali
 </div>
 
 <div class="mt-10">
 <b>Interattività</b>
 
-Nell'ambito dell'informatica e della comunicazione, particolare tipo di relazione che si stabilisce tra i media digitali e i loro utenti, che sottolinea il ruolo di partecipazione attiva offerto dal medium ed esercitato dall'utente all'interno di un processo di trasferimento di informazioni mediato dal computer.
+Nell'ambito dell'informatica e della comunicazione, particolare tipo di relazione che si stabilisce tra i media digitali e i loro utenti, che sottolinea il ruolo di partecipazione attiva offerto dal medium ed esercitato dall'utente all'interno di un processo di trasferimento di informazioni mediato dal computer
 </div>
 
 ---
@@ -92,7 +92,7 @@ transition: fade
 
 <div class="mt-10">
 
-Il processo di design più semplice è un **ciclo continuo** di tre fasi che si ripetono fino al raggiungimento degli obiettivi.
+Il processo di design più semplice è un **ciclo continuo** di tre fasi che si ripetono fino al raggiungimento degli obiettivi
 
 </div>
 
@@ -102,7 +102,7 @@ Il processo di design più semplice è un **ciclo continuo** di tre fasi che si 
 
 <div class="mt-10">
 
-Ogni iterazione permette di **identificare problemi**, raccogliere feedback e migliorare progressivamente la soluzione.
+Ogni iterazione permette di **identificare problemi**, raccogliere feedback e migliorare progressivamente la soluzione
 
 </div>
 
@@ -112,7 +112,7 @@ Ogni iterazione permette di **identificare problemi**, raccogliere feedback e mi
 
 <div class="mt-8">
 
-Il **Double Diamond** è un modello di processo di design sviluppato dal Design Council nel 2004, che descrive le fasi di esplorazione e convergenza.
+Il **Double Diamond** è un modello di processo di design sviluppato dal Design Council nel 2004, che descrive le fasi di esplorazione e convergenza
 
 </div>
 
@@ -150,7 +150,7 @@ Il **Double Diamond** è un modello di processo di design sviluppato dal Design 
 
 <div class="mt-8">
 
-Ogni diamante alterna una fase di **pensiero divergente** (espansione) e una di **pensiero convergente** (sintesi).
+Ogni diamante alterna una fase di **pensiero divergente** (espansione) e una di **pensiero convergente** (sintesi)
 
 </div>
 
@@ -173,7 +173,7 @@ Ogni diamante alterna una fase di **pensiero divergente** (espansione) e una di 
 
 <div class="mt-10">
 
-Il processo non è lineare: le scoperte possono riportare a fasi precedenti per **affinare la comprensione** del problema.
+Il processo non è lineare: le scoperte possono riportare a fasi precedenti per **affinare la comprensione** del problema
 
 </div>
 
@@ -225,7 +225,7 @@ Il processo non è lineare: le scoperte possono riportare a fasi precedenti per 
 
 <div class="mt-6">
 
-Il risultato: una **vasca virtuale** dove i movimenti dei visitatori influenzano l'ecosistema proiettato, rendendo visibile l'impatto delle azioni umane.
+Il risultato: una **vasca virtuale** dove i movimenti dei visitatori influenzano l'ecosistema proiettato, rendendo visibile l'impatto delle azioni umane
 
 </div>
 
@@ -235,7 +235,7 @@ Il risultato: una **vasca virtuale** dove i movimenti dei visitatori influenzano
 
 <div class="mt-10">
 
-Le **Personas** sono modelli di riferimento rappresentativi di specifici tipi di utenti, basati su cluster di comportamenti e bisogni.
+Le **Personas** sono modelli di riferimento rappresentativi di specifici tipi di utenti, basati su cluster di comportamenti e bisogni
 
 </div>
 
@@ -258,7 +258,7 @@ Le **Personas** sono modelli di riferimento rappresentativi di specifici tipi di
 
 <div class="mt-10">
 
-Utili per **ricordare per chi stiamo progettando** e trarre ispirazione dalle loro specifiche sfide e contesti di vita.
+Utili per **ricordare per chi stiamo progettando** e trarre ispirazione dalle loro specifiche sfide e contesti di vita
 
 </div>
 
@@ -268,7 +268,7 @@ Utili per **ricordare per chi stiamo progettando** e trarre ispirazione dalle lo
 
 <div class="mt-10">
 
-Il **Journey Map** è una rappresentazione sintetica che descrive passo-passo come un utente interagisce con un servizio.
+Il **Journey Map** è una rappresentazione sintetica che descrive passo-passo come un utente interagisce con un servizio
 
 </div>
 
@@ -291,7 +291,7 @@ Il **Journey Map** è una rappresentazione sintetica che descrive passo-passo co
 
 <div class="mt-10">
 
-Permette di **rappresentare l'intero processo utente**, identificando pain points e opportunità di miglioramento prima e dopo l'esperienza core.
+Permette di **rappresentare l'intero processo utente**, identificando pain points e opportunità di miglioramento prima e dopo l'esperienza core
 
 </div>
 

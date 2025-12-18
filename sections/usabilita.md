@@ -1,18 +1,29 @@
 ---
-layout: center
-transition: fade
+layout: default
 ---
 
-# Usabilità
 
-<style>
-  h1{
-    text-decoration: underline;
-    text-decoration-color: #e4ca00;
-    text-underline-offset: 2px;
-    text-decoration-thickness: 4px;
-  }
-</style>
+# Caratteristiche di un allestimento interattivo
+
+<div class="grid grid-cols-2 gap-3 mt-12">
+  <div class="flex flex-col items-center justify-center p-6 bg-gray-100">
+    <mdi-book-open-variant class="text-5xl mb-3" />
+    <b>Narrativa</b>
+  </div>
+  <div class="flex flex-col items-center justify-center p-6" style="background-color: #e4ca00">
+    <mdi-cursor-default-click class="text-5xl mb-3" />
+    <b>Usabilità</b>
+  </div>
+  
+  <div class="flex flex-col items-center justify-center p-6 bg-gray-100">
+    <mdi-accessibility class="text-5xl mb-3" />
+    <b>Accessibilità</b>
+  </div>
+  <div class="flex flex-col items-center justify-center p-6 bg-gray-100">
+    <mdi-shield-check class="text-5xl mb-3" />
+    <b>Durabilità</b>
+  </div>
+</div>
 
 ---
 layout: image-right
@@ -23,13 +34,13 @@ image: /media/door.jpg
 
 <div class="mt-10">
 
-Un'installazione efficace deve essere **totalmente auto-esplicativa**.
+Un'installazione efficace deve essere **totalmente auto-esplicativa**
 
 </div>
 
 <div class="mt-8">
 
-Il visitatore deve afferrare immediatamente lo scopo e il metodo di interazione senza necessità di aiuto esterno.
+Il visitatore deve afferrare immediatamente lo scopo e il metodo di interazione senza necessità di aiuto esterno
 
 </div>
 
@@ -43,15 +54,13 @@ image: /media/friction.png
 <div class="mt-10">
 
 
-La frizione intuitiva si verifica quando un'interfaccia apparentemente intuitiva **produce risultati inaspettati**.
+La frizione intuitiva si verifica quando un'interfaccia apparentemente intuitiva **produce risultati inaspettati**
 
-L'efficacia di un'installazione dipende dal massimizzare l'intuitività dell'interazione e **ridurre la frizione cognitiva** nella fase di comprensione.
+L'efficacia di un'installazione dipende dal massimizzare l'intuitività dell'interazione e **ridurre la frizione cognitiva** nella fase di comprensione
 
-<div class="mt-8">
 
-Bassa frizione = la mente del visitatore non è impegnata a capire **come usare** l'installazione, ma **cosa sta imparando**.
+Bassa frizione = la mente del visitatore non è impegnata a capire **come usare** l'installazione, ma **cosa sta imparando**
 
-</div>
 
 </div>
 
@@ -83,7 +92,7 @@ L'interazione deve essere guidata da:
 
 <div class="mt-10">
 
-Questi indizi devono guidare l'utente **intuitivamente**, prevenendo frustrazione.
+Questi indizi devono guidare l'utente **intuitivamente**, prevenendo frustrazione
 
 </div>
 
@@ -94,13 +103,13 @@ Questi indizi devono guidare l'utente **intuitivamente**, prevenendo frustrazion
 
 <div class="mt-10">
 
-L'usabilità si ottiene attraverso la **validazione continua**.
+L'usabilità si ottiene attraverso la **validazione continua**
 
 </div>
 
 <div class="mt-4">
 
-L'unico modo per identificare problemi di usabilità e potenziali incomprensioni è condurre **test utente ripetuti** durante la fase di sviluppo.
+L'unico modo per identificare problemi di usabilità e potenziali incomprensioni è condurre **test utente ripetuti** durante la fase di sviluppo
 
 </div>
 
@@ -118,13 +127,13 @@ image: /media/complex.jpg
 
 <div class="mt-10">
 
-La necessità di usabilità aumenta con la **complessità dell'interfaccia**.
+La necessità di usabilità aumenta con la **complessità dell'interfaccia**
 
 </div>
 
 <div class="mt-8">
 
-Installazioni con più passaggi o esplorazione di dati richiedono **chiarezza estrema** per evitare l'abbandono dell'attività.
+Installazioni con più passaggi o esplorazione di dati richiedono **chiarezza estrema** per evitare l'abbandono dell'attività
 
 </div>
 
@@ -137,13 +146,13 @@ image: /media/child.jpg
 
 <div class="mt-10">
 
-Le installazioni devono mantenere l'usabilità per **pubblici diversi**: bambini, adulti, persone con diverse abilità.
+Le installazioni devono mantenere l'usabilità per **pubblici diversi**: bambini, adulti, persone con diverse abilità
 
 </div>
 
 <div class="mt-8">
 
-Un design efficace bilancia l'esperienza per evitare **soluzioni di compromesso** che non funzionano bene per nessuno.
+Un design efficace bilancia l'esperienza per evitare **soluzioni di compromesso** che non funzionano bene per nessuno
 
 </div>
 
@@ -157,13 +166,13 @@ image: /media/clippy.webp
 
 <div class="mt-10">
 
-L'efficacia del design è compromessa quando le installazioni richiedono l'**intervento costante del personale** per spiegare cosa fare.
+L'efficacia del design è compromessa quando le installazioni richiedono l'**intervento costante del personale** per spiegare cosa fare
 
 </div>
 
 <div class="mt-8">
 
-Non è economicamente sostenibile e indica un **fallimento nella progettazione intuitiva**.
+Non è economicamente sostenibile e indica un **fallimento nella progettazione intuitiva**
 
 </div>
 

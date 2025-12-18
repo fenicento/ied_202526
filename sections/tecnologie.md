@@ -19,7 +19,7 @@ image: /media/kiosk.jpg
 
 <div class="mt-10">
 
-I display touchscreen sono l'**evoluzione digitale** dei pannelli informativi tradizionali, offrendo contenuti modulari e personalizzabili.
+I display touchscreen sono l'**evoluzione digitale** dei pannelli informativi tradizionali, offrendo contenuti modulari e personalizzabili
 
 </div>
 
@@ -47,7 +47,7 @@ I display touchscreen sono l'**evoluzione digitale** dei pannelli informativi tr
 
 <div class="mt-10">
 
-Grandi superfici interattive come **tavoli o pareti** identificano tocchi multipli e simultanei, consentendo l'accesso condiviso.
+Grandi superfici interattive come **tavoli o pareti** identificano tocchi multipli e simultanei, consentendo l'accesso condiviso
 
 </div>
 
@@ -77,7 +77,7 @@ Grandi superfici interattive come **tavoli o pareti** identificano tocchi multip
 
 <div class="mt-10">
 
-I sistemi multi-schermo **trasformano lo spazio** in un ambiente narrativo, creando narrazioni visive condivise.
+I sistemi multi-schermo **trasformano lo spazio** in un ambiente narrativo, creando narrazioni visive condivise
 
 </div>
 
@@ -106,7 +106,7 @@ I sistemi multi-schermo **trasformano lo spazio** in un ambiente narrativo, crea
 
 <div class="mt-10">
 
-Proiettori e schermi LED dinamici forniscono **profondità visiva** e alterano l'aspetto dello spazio attraverso il projection mapping.
+Proiettori e schermi LED dinamici forniscono **profondità visiva** e alterano l'aspetto dello spazio attraverso il projection mapping
 
 </div>
 
@@ -138,7 +138,7 @@ image: /media/vr.png
 
 <div class="mt-10">
 
-La VR crea **ambienti completamente digitali** che simulano la presenza fisica in mondi non fisici.
+La VR crea **ambienti completamente digitali** che simulano la presenza fisica in mondi non fisici
 
 </div>
 
@@ -174,7 +174,7 @@ image: /media/ar.jpg
 
 <div class="mt-10">
 
-L'AR sovrappone **elementi digitali** (suono, video, grafica, 3D) al mondo fisico in tempo reale, arricchendo l'ambiente senza isolare l'utente.
+L'AR sovrappone **elementi digitali** (suono, video, grafica, 3D) al mondo fisico in tempo reale, arricchendo l'ambiente senza isolare l'utente
 
 </div>
 
@@ -188,7 +188,7 @@ L'AR sovrappone **elementi digitali** (suono, video, grafica, 3D) al mondo fisic
 
 <div class="mt-10">
 
-A differenza della VR, l'AR **mantiene l'utente connesso** all'ambiente fisico circostante.
+A differenza della VR, l'AR **mantiene l'utente connesso** all'ambiente fisico circostante
 
 </div>
 
@@ -198,7 +198,7 @@ A differenza della VR, l'AR **mantiene l'utente connesso** all'ambiente fisico c
 
 <div class="mt-10">
 
-La scansione 3D (laser o fotogrammetria) cattura **modelli digitali precisi** di oggetti o spazi.
+La scansione 3D (laser o fotogrammetria) cattura **modelli digitali precisi** di oggetti o spazi
 
 </div>
 
@@ -221,7 +221,7 @@ La scansione 3D (laser o fotogrammetria) cattura **modelli digitali precisi** di
 
 <div class="mt-10">
 
-Fondamentale per l'**accessibilità**: i visitatori con disabilità visive possono sperimentare forma e consistenza degli oggetti (es. The Art Institute of Chicago).
+Fondamentale per l'**accessibilità**: i visitatori con disabilità visive possono sperimentare forma e consistenza degli oggetti (es. The Art Institute of Chicago)
 
 </div>
 
@@ -231,7 +231,7 @@ Fondamentale per l'**accessibilità**: i visitatori con disabilità visive posso
 
 <div class="mt-10">
 
-La CV utilizza telecamere per rilevare **presenza, azioni ed espressioni** dei visitatori, attivando risposte dinamiche.
+La CV utilizza telecamere per rilevare **presenza, azioni ed espressioni** dei visitatori, attivando risposte dinamiche
 
 </div>
 
@@ -259,7 +259,7 @@ La CV utilizza telecamere per rilevare **presenza, azioni ed espressioni** dei v
 
 <div class="mt-10">
 
-Tecniche di **Motion Tracking** e Computer Vision trasformano i gesti in input interattivi.
+Tecniche di **Motion Tracking** e Computer Vision trasformano i gesti in input interattivi
 
 </div>
 
@@ -284,7 +284,7 @@ Tecniche di **Motion Tracking** e Computer Vision trasformano i gesti in input i
 
 <div class="mt-10">
 
-Il tracciamento della posizione è **cruciale per installazioni reattive**, influenzando suoni e proiezioni in base al movimento.
+Il tracciamento della posizione è **cruciale per installazioni reattive**, influenzando suoni e proiezioni in base al movimento
 
 </div>
 
@@ -296,7 +296,7 @@ Il tracciamento della posizione è **cruciale per installazioni reattive**, infl
 
 <div class="mt-10">
 
-I sensori traducono l'**azione fisica** degli utenti in dati elaborabili dall'installazione.
+I sensori traducono l'**azione fisica** degli utenti in dati elaborabili dall'installazione
 
 </div>
 
@@ -339,7 +339,7 @@ I sensori traducono l'**azione fisica** degli utenti in dati elaborabili dall'in
 
 <div class="mt-10">
 
-Gli attuatori producono il **feedback fisico e sensoriale** dell'installazione.
+Gli attuatori producono il **feedback fisico e sensoriale** dell'installazione
 
 </div>
 
@@ -393,7 +393,7 @@ layout: default
 
 <div class="mt-10">
 
-Le TUI sono interfacce che consentono la **manipolazione fisica** di contenuti digitali.
+Le TUI sono interfacce che consentono la **manipolazione fisica** di contenuti digitali
 
 </div>
 
@@ -416,7 +416,7 @@ Le TUI sono interfacce che consentono la **manipolazione fisica** di contenuti d
 
 <div class="mt-10">
 
-Recuperano la **dimensione del tatto**, spesso perduta nei musei dove gli oggetti non possono essere toccati.
+Recuperano la **dimensione del tatto**, spesso perduta nei musei dove gli oggetti non possono essere toccati
 
 </div>
 
@@ -438,7 +438,7 @@ layout: default
 
 <div class="mt-10">
 
-Dispositivi indossabili come **smartwatch o HoloLens** permettono scenari di storytelling non intrusivi.
+Dispositivi indossabili come **smartwatch o HoloLens** permettono scenari di storytelling non intrusivi
 
 </div>
 
@@ -466,7 +466,7 @@ Dispositivi indossabili come **smartwatch o HoloLens** permettono scenari di sto
 
 <div class="mt-10">
 
-Le app mobili sfruttano **fotocamera e sensori** dei dispositivi per AR e navigazione.
+Le app mobili sfruttano **fotocamera e sensori** dei dispositivi per AR e navigazione
 
 </div>
 
@@ -489,7 +489,7 @@ Le app mobili sfruttano **fotocamera e sensori** dei dispositivi per AR e naviga
 
 <div class="mt-10">
 
-I sensori di prossimità trasformano il dispositivo in una **guida contestuale intelligente**.
+I sensori di prossimità trasformano il dispositivo in una **guida contestuale intelligente**
 
 </div>
 
@@ -544,7 +544,7 @@ layout: default
 
 <div class="mt-10">
 
-L'AI supporta **chatbot conversazionali** che offrono interazione dialogica e raccomandazioni personalizzate.
+L'AI supporta **chatbot conversazionali** che offrono interazione dialogica e raccomandazioni personalizzate
 
 </div>
 
@@ -567,6 +567,6 @@ L'AI supporta **chatbot conversazionali** che offrono interazione dialogica e ra
 
 <div class="mt-10">
 
-I sistemi di riconoscimento vocale permettono **interazioni naturali** e inclusive.
+I sistemi di riconoscimento vocale permettono **interazioni naturali** e inclusive
 
 </div>
