@@ -1,6 +1,7 @@
 <script setup lang="ts">
-defineProps<{
+const props = defineProps<{
   image: string
+  backgroundSize?: string
 }>()
 </script>
 
@@ -10,7 +11,7 @@ defineProps<{
       <slot />
     </div>
     <div class="h-1/2 -mx-16">
-      <img :src="image" class="w-full h-full object-cover" />
+      <img :src="image" :class="`w-full h-full object-${props.backgroundSize || 'cover'}`" />
     </div>
   </div>
 </template>

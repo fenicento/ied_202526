@@ -192,10 +192,14 @@ Strumento per **prototipare e testare** installazioni multimediali interattive n
 </div>
 
 ---
+layout: image-right
+image: /media/ardufull.jpg
+backgroundSize: contain
+---
 
 # Arduino
 
-<div class="grid grid-cols-2 gap-2">
+<div>
 	<div class="flex flex-col  align-center">
 		<div class="mt-10">
 			Arduino è una <b>piattaforma di prototipazione elettronica open-source</b> che si basa su hardware e software flessibili e facili da usare.
@@ -217,9 +221,7 @@ Strumento per **prototipare e testare** installazioni multimediali interattive n
 			</div>
 		</div>
 	</div>
-	<div class="flex items-center justify-center bg-white  rounded-lg w-full h-full">
-		<img src="/media/ardufull.jpg" class="w-full h-full object-contain relative -top-16" style="max-height: 500px;" />
-	</div>
+	
 </div>
 
 ---
@@ -271,7 +273,7 @@ L'IDE Arduino permette di scrivere codice, compilarlo e caricarlo sulla scheda i
 		<mdi-language-c class="text-3xl mt-1" />
 		<div>
 			<span class="block"><b>Linguaggio C/C++</b></span>
-			<span class="block text-sm mt-2">Basato su Wiring, semplificato per rendere la programmazione accessibile</span>
+			<span class="block text-sm mt-2">Semplificato per rendere la programmazione accessibile</span>
 		</div>
 	</div>
 	<div class="flex items-start gap-4">
@@ -355,6 +357,116 @@ Arduino si integra facilmente con altri strumenti per creare **sistemi complessi
 La combinazione Arduino + software visuale (TouchDesigner, Processing) è perfetta per **allestimenti interattivi multimediali**.
 
 </div>
+
+---
+
+# Com'è fatto un Arduino
+
+<div class="flex items-center justify-center mt-8">
+	<img class="max-h-[40vh] w-full object-contain" src="/media/ardu_layout.jpg"/>
+</div>
+
+---
+layout: image-right
+image: /media/ardu_pins.jpg
+backgroundSize: contain
+---
+
+# Pin - analogici e digitali
+
+<div class="mt-10">
+
+I pin possono essere di **due tipi**: analogici e digitali.
+
+</div>
+
+<div class="grid grid-cols-1 gap-8 mt-10">
+	<div class="flex items-start gap-4">
+		<mdi-sine-wave class="text-2xl mt-1" />
+		<div>
+			<span class="block"><b>Pin analogici</b></span>
+			<span class="block text-sm mt-2">Il segnale ha un valore variabile da 0 a 1023 (10 bit). Esempio: un sensore di temperatura trasforma il valore termico in segnale elettrico</span>
+		</div>
+	</div>
+	<div class="flex items-start gap-4">
+		<mdi-square-wave class="text-2xl mt-1" />
+		<div>
+			<span class="block"><b>Pin digitali</b></span>
+			<span class="block text-sm mt-2">Il segnale ha 2 possibili valori: HIGH (1) o LOW (0). Esempio: una fotocellula rileva la presenza o l'assenza di un corpo fisico nel suo campo</span>
+		</div>
+	</div>
+	
+</div>
+
+
+---
+
+# Comunicazione Seriale
+
+<div class="mt-16">
+
+Su Arduino è presente un **canale di comunicazione** che viaggia attraverso la porta USB
+(ma non solo)
+
+<br>
+
+La comunicazione seriale consente **l’invio e la ricezione di messaggi** durante l’esecuzione
+dei programmi. L’interlocutore può essere un computer, un’altra scheda, etc
+
+
+<br>
+  
+
+La porta seriale è anche molto usata per eseguire il **debug dei programmi**.
+
+</div>
+
+---
+layout: image-bottom
+image: /media/ardusample.png 
+backgroundSize: contain
+---
+
+# Un esempio pratico - circuito
+
+<div class="mt-10">
+
+Questo esempio mostra come **leggere un input analogico**, mapparlo ad un valore da 0 a 225 e usare questo valore per regolare la luminosità di un led tramite **Pulse Width Modulation (PWM)**. 
+
+
+Il valore viene anche inviato alla porta seriale.
+</div>
+
+---
+
+# Un esempio pratico - codice
+
+```cpp
+const int analogInPin = A0;  // Analog input pin that the potentiometer is attached to
+const int analogOutPin = 9;  // Analog output pin that the LED is attached to
+
+int sensorValue = 0;         // value read from the pot
+int outputValue = 0;         // value output to the PWM (analog out)
+
+void setup() {
+	Serial.begin(9600);		     // initialize serial communications at 9600 bps:
+}
+
+void loop() {
+	sensorValue = analogRead(analogInPin);                // read the analog in value:	
+	outputValue = map(sensorValue, 0, 1023, 0, 255);      // map it to the range of the analog out:
+	analogWrite(analogOutPin, outputValue);               // change the analog out value:
+	
+	// print the results to the Serial Monitor:
+	Serial.print("sensor = ");
+	Serial.print(sensorValue);
+	Serial.print("\t output = ");
+	Serial.println(outputValue);
+	
+	delay(2);      // wait 2 milliseconds before the next loop
+}
+```
+
 
 ---
 
